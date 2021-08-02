@@ -1,0 +1,1 @@
+Jogo da Cobrinha básico desenvolvido em JavaScript
